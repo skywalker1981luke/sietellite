@@ -1,5 +1,5 @@
 [
-"https://rdnkfk6ewq.top",
+"https://api.tonghuashunglobals.com",
 "http://test.com",
 "https://test2.com",
 "https://test3.com"
